@@ -12,3 +12,6 @@ C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcor
 C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.RazorTargetAssemblyInfo.cache
 C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.dll
 C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.pdb
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\bin\Debug\netcoreapp2.2\FMPI.Sales.Application.dll
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\bin\Debug\netcoreapp2.2\FMPI.Sales.Application.pdb
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.csproj.CopyComplete

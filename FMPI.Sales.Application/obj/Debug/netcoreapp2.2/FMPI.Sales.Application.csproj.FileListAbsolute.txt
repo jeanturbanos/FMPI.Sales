@@ -1,0 +1,9 @@
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\bin\Debug\netcoreapp2.2\FMPI.Sales.Application.deps.json
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\bin\Debug\netcoreapp2.2\FMPI.Sales.Application.dll
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\bin\Debug\netcoreapp2.2\FMPI.Sales.Application.pdb
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\obj\Debug\netcoreapp2.2\FMPI.Sales.Application.csprojAssemblyReference.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\obj\Debug\netcoreapp2.2\FMPI.Sales.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\obj\Debug\netcoreapp2.2\FMPI.Sales.Application.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\obj\Debug\netcoreapp2.2\FMPI.Sales.Application.AssemblyInfo.cs
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\obj\Debug\netcoreapp2.2\FMPI.Sales.Application.dll
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Application\obj\Debug\netcoreapp2.2\FMPI.Sales.Application.pdb
