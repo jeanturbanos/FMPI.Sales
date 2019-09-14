@@ -1,0 +1,14 @@
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\bin\Debug\netcoreapp2.2\FMPI.Sales.Api.deps.json
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\bin\Debug\netcoreapp2.2\FMPI.Sales.Api.runtimeconfig.json
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\bin\Debug\netcoreapp2.2\FMPI.Sales.Api.runtimeconfig.dev.json
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\bin\Debug\netcoreapp2.2\FMPI.Sales.Api.dll
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\bin\Debug\netcoreapp2.2\FMPI.Sales.Api.pdb
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.csprojAssemblyReference.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.RazorAssemblyInfo.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.RazorAssemblyInfo.cs
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.AssemblyInfo.cs
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.dll
+C:\Users\Jean\Documents\Projects\FMPI\FMPI.Sales\FMPI.Sales.Api\obj\Debug\netcoreapp2.2\FMPI.Sales.Api.pdb
